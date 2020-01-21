@@ -1,0 +1,6 @@
+name: EnchantedGoldenApples
+main: xyz.zeeraa.enchantedgoldenapples.EnchantedGoldenApples
+description: Adds crafting for enchanted golden apples
+depend: []
+version: 1.0
+api-version: 1.13
